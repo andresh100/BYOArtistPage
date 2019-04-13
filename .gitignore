@@ -1,0 +1,6 @@
+authentication/app/config/
+.idea/
+images/
+lib/
+sites/
+.user.ini
