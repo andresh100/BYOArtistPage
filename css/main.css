@@ -1,0 +1,185 @@
+/*Import Forts*/
+@import url(https://fonts.googleapis.com/css?family=Ubuntu);
+@import url(https://fonts.googleapis.com/css?family=Anton);
+@import url(https://fonts.googleapis.com/css?family=Rubik);
+
+
+
+
+html {
+    font-family: 'Rubik', sans-serif;
+    /*    background-image: linear-gradient(to right, rgba(0, 255, 200, 0.5), rgba(0, 255, 200, 1));*/
+    /*  https://pixabay.com/vectors/mountains-panorama-forest-mountain-1412683/  */
+    background-image: url("../images/background.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    height: 100%;
+    background-attachment: fixed;
+}
+
+body {
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 8in;
+}
+
+
+
+
+
+
+
+
+
+table {
+    border-collapse: collapse;
+    /*    width: 100%;*/
+    display: block;
+    /*    height: 500px;*/
+    /*    overflow-y: scroll;*/
+    /*    position: relative;*/
+    /*    background-color: aquamarine;*/
+    /*    border-radius: 1em;*/
+}
+
+caption {
+    padding: 1em;
+    font-weight: bold;
+    border-bottom: 2px solid #000000;
+}
+
+th,
+td {
+    padding: 20px;
+    text-align: left;
+    border-bottom: 1px solid #DEDEDE;
+}
+
+th,
+td {
+    width: 10em;
+}
+
+th {
+    color: ghostwhite;
+    background-color: black;
+    border-bottom: 3px solid gray;
+}
+
+tr {
+    width: 100%;
+    max-width: 8in;
+    background-color: white;
+}
+
+thead {
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+tbody {
+    width: 100%;
+    display: block;
+    height: 500px;
+    overflow-y: scroll;
+    position: relative;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    background-color: white;
+}
+
+tr:hover {
+    background-color: #DEDEDE;
+
+}
+
+/*
+td:hover {
+    background-color: #A3A3A3;
+}
+*/
+
+
+
+
+
+.button {
+    position: relative;
+    background-color: #4CAF50;
+    border: none;
+    font-size: 18px;
+    color: #FFFFFF;
+    padding: 10px;
+    width: 100%;
+    text-align: center;
+    -webkit-transition-duration: 0.4s;
+    transition-duration: 0.4s;
+    text-decoration: none;
+    overflow: hidden;
+    cursor: pointer;
+}
+
+.button:after {
+    content: "";
+    background: rgba(255, 255, 255, 0.7);
+    display: block;
+    position: absolute;
+    padding-top: 300%;
+    padding-left: 350%;
+    margin-left: -20px !important;
+    margin-top: -120%;
+    opacity: 0;
+    transition: all 0.8s
+}
+
+.button:hover {
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.button:active:after {
+    padding: 0;
+    margin: 0;
+    opacity: 1;
+    transition: 0s
+}
+
+.edit {
+    background-color: #008CBA;
+}
+
+.delete {
+    background-color: #f44336;
+}
+
+.new {
+    width: 100%;
+    max-width: 8in;
+    margin: 2em 0 0 0;
+    padding: 1em;
+}
+
+.reset {
+    background-color: #008CBA;
+    width: 100%;
+    max-width: 4in;
+}
+
+.signOut {
+    background-color: #f44336;
+    width: 100%;
+    max-width: 4in;
+}
+
+
+
+
+
+.WebName {
+    font-family: 'Anton', sans-serif;
+    font-size: 4em;
+    margin-bottom: 0em;
+    text-align: center;
+}
+
+.slogan {
+    font-family: 'Ubuntu', sans-serif;
+}
