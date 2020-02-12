@@ -29,3 +29,19 @@ If you need example data in order to create your website, please go into the Exa
 If you do not want to create your own Login, please use:
  * username: andresh100
  * password: !Code123
+
+## Examples
+<img src="/Assets/Landing.PNG" >
+Landing Page for BYO Artist Page
+
+<img src="/Assets/SignIn.PNG" >
+In order for a user to edit or create new pages they need to signup of login to there account, however all artist pages are still available to the public unless deleted.
+
+<img src="/Assets/Home.PNG" >
+The Home page is where you can manage all your pages.
+
+<img src="/Assets/Form.PNG" >
+The Form is all you need to fill in order to create your artist page.
+
+<img src="/Assets/CreatedWebsiteHome.PNG" >
+Once the website is done all you have to do is market it, as anyone will be able to access it.
