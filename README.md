@@ -33,15 +33,15 @@ If you do not want to create your own Login, please use:
 ## Examples
 <img src="/Assets/Landing.PNG" >
 Landing Page for BYO Artist Page
-
+<hr>
 <img src="/Assets/SignIn.PNG" >
 In order for a user to edit or create new pages they need to signup of login to there account, however all artist pages are still available to the public unless deleted.
-
+<hr>
 <img src="/Assets/Home.PNG" >
 The Home page is where you can manage all your pages.
-
+<hr>
 <img src="/Assets/Form.PNG" >
 The Form is all you need to fill in order to create your artist page.
-
+<hr>
 <img src="/Assets/CreatedWebsiteHome.PNG" >
 Once the website is done all you have to do is market it, as anyone will be able to access it.
