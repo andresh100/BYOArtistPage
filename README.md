@@ -24,3 +24,7 @@
 ## Live Demo
 https://ahansen1.w3.uvm.edu/cs142/dev_final/websites.php
 If you need example data in order to create your website, please go into the ExampleData folder and use those images and CSV for the Tours when asked.
+
+If you do not want to create your own Login, please use:
+username: andresh100
+password: !Code123
