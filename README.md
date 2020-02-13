@@ -1,6 +1,6 @@
 # Build Your Own Artist Page
 <img src="/Assets/Heading.PNG" >
-This website was made as a project by two music nerds that wanted to have an easy and fast way for bands to manage and create their own websites without having any previous web development knowledge. It features a simple straighfoward form for them to get through the whole process really fast.
+This website was made as a project by two music nerds that wanted to have an easy and fast way for bands to manage and create their own websites without having any previous web development knowledge. It features a simple straightforward form for them to get through the whole process really fast.
 
 ## Features
 
